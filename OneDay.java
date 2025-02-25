@@ -19,6 +19,8 @@ public class DreamingUntil {
         System.out.println("\nThis might be cringe or something, but I'll do it anyway...");
 
        
-        System.out.println("\nOne day, our paths will cross, and everything will make sense.");
+       System.out.println("\nOne day, I’ll get the chance to talk to you—just gotta wait for the right moment.");  
+       System.out.println("Who would’ve thought someone would try to say this through GitHub?");  
+
     }
 }
