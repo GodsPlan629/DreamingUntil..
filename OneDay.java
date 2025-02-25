@@ -21,6 +21,7 @@ public class DreamingUntil {
        
        System.out.println("\nOne day, I’ll get the chance to talk to you—just gotta wait for the right moment.");  
        System.out.println("Who would’ve thought someone would try to say this through GitHub?");  
+       System.out.println("If you're curious who I am, you might want to check out READOneDayJava.md."); 
 
     }
 }
